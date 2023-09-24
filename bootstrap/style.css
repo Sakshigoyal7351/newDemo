@@ -1,0 +1,59 @@
+.container
+{
+    border: 8px solid black;
+}
+
+.container-fluid
+{
+    border: 8px solid black;
+}
+
+.row
+{
+    border: 2px solid red;
+}
+
+.col,.col-4,.col-8, .col-2, .col-12
+{
+    border: 0px solid green;
+}
+
+#header
+{
+    padding: 10px 0 10px 10px;
+    background: orange;
+}
+
+#menu
+{
+    padding: 3px 0 10px 10px;
+    background:pink;
+}
+
+#menu ul{
+    list-style: none;
+}
+
+#menu ul li{
+    display:inline-block
+}
+
+#content
+{
+    background: whitesmoke;
+}
+
+#sidebar{
+ background: skyblue
+}
+
+#footer
+{
+    background: orange;
+}
+
+
+.pink
+{
+    background: pink;
+}
